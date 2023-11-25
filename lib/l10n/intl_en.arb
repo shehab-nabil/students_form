@@ -1,0 +1,19 @@
+{
+    "students" : "Students",
+    "studentName": "Studets name",
+    "address": "Address",
+    "phone": "Phone",
+    "classChar" : "class",
+    "birthdate" : "Birthdate",
+    "remarks" : "Remarks",
+    "add"  : "Add" ,
+    "edit" : "Edit" ,
+    "search": "search",
+    "classA" : "A",
+    "classB" : "B",
+    "classC" :"C",
+    "classD" : "D",
+    "validationMessage" : "can't be empty",
+    "shortnum" : "Too short for a phone number!"
+
+}

@@ -1,0 +1,19 @@
+{
+    "students" : "الطلاب",
+    "studentName": "اسم الطالب",
+    "address": "العنوان",
+    "phone": "رقم الهاتف",
+    "classChar" : "الفصل",
+    "birthdate" : "تريخ الميلاد",
+    "remarks" : "ملاحظات",
+    "add"  : "أضف" ,
+    "edit" : "عدل" ,
+    "search": "أبحث",
+    "classA" : "أ",
+    "classB" : "ب",
+    "classC" :"ت",
+    "classD" : "ث",
+    "validationMessage" : "لا يمكن ان يكون فارغ ",
+    "shortnum" : "اصغر من ان يكن رقم تلفون"
+
+}
