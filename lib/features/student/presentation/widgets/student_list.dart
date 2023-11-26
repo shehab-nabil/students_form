@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:task/features/student/controller/student_cubit/Student_cubit.dart';
-import 'package:task/features/student/controller/student_cubit/student_statee.dart';
-import 'package:task/features/student/model/entities/student_model.dart';
-import 'package:task/features/student/presentation/widgets/custom_form_text_field.dart';
-import 'package:task/features/student/presentation/widgets/student_item.dart';
-import 'package:task/generated/l10n.dart';
+import '../../controller/student_cubit/Student_cubit.dart';
+import '../../controller/student_cubit/student_statee.dart';
+import '../../model/entities/student_model.dart';
+import 'custom_form_text_field.dart';
+import 'student_item.dart';
+import '../../../../generated/l10n.dart';
 
 class StudentList extends StatefulWidget {
   const StudentList({super.key});

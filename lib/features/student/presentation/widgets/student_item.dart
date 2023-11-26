@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:task/features/student/controller/student_cubit/Student_cubit.dart';
-import 'package:task/features/student/model/entities/student_model.dart';
-import 'package:task/features/student/presentation/widgets/edit_student_bottom_sheet.dart';
-import 'package:task/generated/l10n.dart';
-import 'package:task/utils/app_colors.dart';
+import '../../controller/student_cubit/Student_cubit.dart';
+import '../../model/entities/student_model.dart';
+import 'edit_student_bottom_sheet.dart';
+import '../../../../generated/l10n.dart';
+import '../../../../utils/app_colors.dart';
 
 class StudentItem extends StatelessWidget {
   const StudentItem({

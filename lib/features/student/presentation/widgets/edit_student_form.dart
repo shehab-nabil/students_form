@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-import 'package:task/features/student/model/entities/student_model.dart';
-import 'package:task/features/student/presentation/widgets/custom_buttom.dart';
-import 'package:task/features/student/presentation/widgets/custom_form_text_field.dart';
-import 'package:task/generated/l10n.dart';
+import '../../model/entities/student_model.dart';
+import 'custom_buttom.dart';
+import 'custom_form_text_field.dart';
+import '../../../../generated/l10n.dart';
 
-import 'package:task/utils/app_colors.dart';
-import 'package:task/utils/app_strings.dart';
-import 'package:task/utils/core.dart';
+import '../../../../utils/app_colors.dart';
+import '../../../../utils/app_strings.dart';
+import '../../../../utils/core.dart';
 
 class EditStudentForm extends StatefulWidget {
   const EditStudentForm({

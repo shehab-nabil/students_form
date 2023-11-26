@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:task/utils/app_colors.dart';
+import 'app_colors.dart';
 
 ThemeData getApplicationTheme() {
   return ThemeData(
