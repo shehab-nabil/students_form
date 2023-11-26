@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:task/features/student/presentation/pages/home_page.dart';
-import 'package:task/generated/l10n.dart';
-import 'package:task/utils/app_strings.dart';
-import 'package:task/utils/app_theme.dart';
-import 'package:intl/intl.dart';
+import 'features/student/presentation/pages/home_page.dart';
+import 'generated/l10n.dart';
+import 'utils/app_strings.dart';
+import 'utils/app_theme.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});

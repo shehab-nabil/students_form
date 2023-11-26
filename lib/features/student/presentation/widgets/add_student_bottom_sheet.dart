@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:task/features/student/controller/add_student_cubit/add_student_cubit.dart';
-import 'package:task/features/student/presentation/widgets/add_student_form.dart';
+import '../../controller/add_student_cubit/add_student_cubit.dart';
+import 'add_student_form.dart';
 
 class AddBottomSheet extends StatelessWidget {
   const AddBottomSheet({super.key});

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:task/features/student/controller/student_cubit/Student_cubit.dart';
-import 'package:task/features/student/controller/student_cubit/student_statee.dart';
-import 'package:task/features/student/presentation/widgets/add_student_bottom_sheet.dart';
-import 'package:task/features/student/presentation/widgets/student_list.dart';
-import 'package:task/generated/l10n.dart';
-import 'package:task/utils/app_colors.dart';
+import '../../controller/student_cubit/Student_cubit.dart';
+import '../../controller/student_cubit/student_statee.dart';
+import '../widgets/add_student_bottom_sheet.dart';
+import '../widgets/student_list.dart';
+import '../../../../generated/l10n.dart';
+import '../../../../utils/app_colors.dart';
 import 'package:intl/intl.dart';
 
 class HomePage extends StatefulWidget {
